@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Phone Control</string>
+    <string name="service_name">phone-controller Listener Service</string>
+    <string name="addr">http://adri326.890m.com/phoneControl/client.php</string>
+</resources>
